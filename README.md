@@ -13,8 +13,8 @@ A Python-based attendance management system for ZKTeco biometric devices. This a
 - Standalone Windows executable available
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/037e5d23-fff0-4105-ace3-644f327ae972)
 
-(Screenshots will be added here)
 
 ## Requirements
 
