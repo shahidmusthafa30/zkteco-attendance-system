@@ -57,3 +57,4 @@ venv.bak/
 # Project specific
 *.csv
 *.log 
+devices.json 
